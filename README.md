@@ -64,8 +64,8 @@ When request don't provide your requirements warder send response like below:
 
 If you have an idea or find error please entry issue. 
 
-[npm-image]: https://img.shields.io/npm/v/wee.svg?style=flat
+[npm-image]: https://img.shields.io/npm/v/warder.svg?style=flat
 [npm-url]: https://npmjs.org/package/warder
 [downloads-url]: https://npmjs.org/package/warder
-[downloads-image]: https://img.shields.io/npm/dm/wee.svg?style=flat
+[downloads-image]: https://img.shields.io/npm/dm/warder.svg?style=flat
 
