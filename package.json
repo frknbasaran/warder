@@ -1,0 +1,44 @@
+{
+  "name": "warder",
+  "description": "lightweight request params and headers check middleware for express 4",
+  "version": "0.0.2",
+  "author": {
+    "name": "Furkan Başaran",
+    "email": "frknbasaran@gmail.com"
+  },
+  "keywords": [
+    "express",
+    "request",
+    "header",
+    "param",
+    "middleware"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/frknbasaran/warder"
+  },
+  "license": "MIT",
+  "dependencies": {
+  },
+  "engines": {
+    "node": ">= 0.10.0"
+  },
+  "bugs": {
+    "url": "https://github.com/frknbasaran/warder/issues"
+  },
+  "homepage": "https://github.com/frknbasaran/warder",
+  "_id": "warder@0.0.1",
+  "scripts": {},
+  "_npmUser": {
+    "name": "frknbasaran",
+    "email": "frknbasaran@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "frknbasaran",
+      "email": "frknbasaran@gmail.com"
+    }
+  ],
+  "directories": {},
+  "readmeFilename": "README.md"
+}
