@@ -1,6 +1,6 @@
 # Warder
 
-*Lightweight request control middleware for express 4*
+*Lightweight request control middleware for Express 4*
 
 [![NPM Version][npm-image]][npm-url]
 [![NPM Downloads][downloads-image]][downloads-url]
